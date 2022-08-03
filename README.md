@@ -11,4 +11,4 @@ Most of the modules aren't finished but the smule module works fine.
 example: `python3 elirascrape.py smule -u username` prints all of the performance info on the terminal.
 
 ### Sidenote
-As of publishing, I've alerted smule about the exposed coordinates, but they rejected my vulnerbility report.
+As of publishing, I've alerted smule about the exposed coordinates.
