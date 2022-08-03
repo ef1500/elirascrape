@@ -7,5 +7,5 @@ Features:
 
 ## Usage
 Most of the modules aren't finished but the smule module works fine.
-example: `python3 elirascrape.py smule -u username`
-prints all of the performance info on the terminal.
+
+example: `python3 elirascrape.py smule -u username` prints all of the performance info on the terminal.
